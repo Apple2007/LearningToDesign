@@ -1,2 +1,2 @@
 # LearningToDesign
-My second Dreamweaver site.
+My second Dreamweaver site. Use as you wish.
